@@ -18,6 +18,7 @@
 2. En una defensa 5:1, ¿Como defendemos frente a un pivote que está en constante movimiento? 
 3. ¿Qué tipo de jugadores necesitamos para hacer una defensa 5:1 profunda? 
 4. Como el avanzado de una defensa 5:1 puede hacer para que se realentice el juego de la primera linea contraria. 
+5. COmo podemos quitar al avanzad del centro para poder atacar al defensor central?
 
 ## Ataque
 
@@ -32,3 +33,4 @@
 2. Qué tipo de ataques puedo hacer cuando tengo jugadores que de media son más bajitos que las defensas en las que nos encontramos. 
 3. He encajado un parcial de 4-0 y necesitamos responder ante la situación, ¿Que cambios ofensivos podemos proponer?
 4. Perdemos muchos balones en ataque posicional debido a que no somos capaces de generar verdaderas ventajas , ¿Como podemos solucionarlo?
+5. La defensa rival es muy presionante buscando aislar al central para jugar 2x2 con el pivote en el centro. ¿QUe podemos hacer?
